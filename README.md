@@ -9,7 +9,9 @@ which improved my communication skills
 ### My Main Stack
 
 ![HTML5](https://img.icons8.com/color/35/html-5.png) ![CSS3](https://img.icons8.com/color/35/css3.png)![JavaScript](https://img.icons8.com/color/35/javascript.png) ![TypeScript](https://img.icons8.com/color/35/typescript.png) ![Angular](https://img.icons8.com/color/35/angularjs.png) ![React.js](https://img.icons8.com/color/35/react-native.png) ![SASS](https://img.icons8.com/color/35/sass.png) ![PrimeFaces](https://img.icons8.com/color/35/primefaces.png) ![Material UI](https://img.icons8.com/color/35/material-ui.png) ![Bootstrap](https://img.icons8.com/color/35/bootstrap.png) ![Git](https://img.icons8.com/color/35/git.png)![Github](https://img.icons8.com/color/material-outlined/35/github.png) ![Azure](https://img.icons8.com/color/35/azure.png) ![Agile](https://img.icons8.com/color/35/agile.png)
+
 <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png">
+![Angular Logo](https://angular.io/assets/images/logos/angular/angular.svg)
 
 SCSSPrimeFacesMaterialUIBootstrap  GitGithubAzureAgile
 
