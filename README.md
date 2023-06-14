@@ -8,7 +8,7 @@ which improved my communication skills
 
 ### My Main Stack
 
-![HTML5](https://img.icons8.com/color/35/html-5.png)![CSS3](https://img.icons8.com/color/35/css3.png)![JavaScript](https://img.icons8.com/color/35/javascript.png)![TypeScript](https://img.icons8.com/color/35/typescript.png)![React.js](https://img.icons8.com/color/35/react-native.png)![SASS](https://img.icons8.com/color/35/sass.png) ![NPM](https://img.icons8.com/color/35/npm.png)![PrimeFaces/PrimeNG](https://img.icons8.com/color/35/primefaces.png)![Git](https://img.icons8.com/color/35/git.png)![Github](https://img.icons8.com/color/material-outlined/35/github.png)
+![HTML5](https://img.icons8.com/color/35/html-5.png)![CSS3](https://img.icons8.com/color/35/css3.png)![JavaScript](https://img.icons8.com/color/35/javascript.png)![TypeScript](https://img.icons8.com/color/35/typescript.png)![React.js](https://img.icons8.com/color/35/react-native.png)![SASS](https://img.icons8.com/color/35/sass.png) ![NPM](https://img.icons8.com/color/35/npm.png)![PrimeFaces](https://img.icons8.com/color/35/primefaces.png)![Git](https://img.icons8.com/color/35/git.png)![Github](https://img.icons8.com/color/material-outlined/35/github.png)
 
 HTML5CSS3JavaScriptTypeScript AngularReact.jsJasmineJestSingleSPA SCSSPrimeFacesMaterialUIBootstrap  GitGithubAzureAgile
 
