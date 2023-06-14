@@ -1,4 +1,4 @@
-<img src="https://github.com/andrerdei/andrerdei/blob/master/images/banneraboutme.png" width="100%">
+<img src="https://github.com/andrerdei/andrerdei/blob/master/linkedin_background_image_1.png" width="100%">
 
 ### A Bit About Me
 
